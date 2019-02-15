@@ -1,0 +1,45 @@
+
+.alert{
+
+	color:#fff;
+	text-align:center;
+	font-size:1em;
+	background:red;
+	margin-top:-20px;
+	border-radius: 0;
+
+}
+
+
+.alert--Info{
+
+	background:darkslategrey;
+}
+
+.alert--Success{
+
+	background:green;
+}
+
+.alert--Error{
+
+	background:red;
+}
+
+.close-btn{
+
+
+	font-size:1em;
+	color:white;
+	font-weight:bold;
+	display:inline;
+
+}
+
+.close-btn a:visited, close-btn a:active, close-btn a{
+
+	color:white;
+
+}
+
+
